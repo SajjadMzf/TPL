@@ -1,0 +1,12 @@
+[submodule "TrajPreprocess"]
+	path = TrajPreprocess
+	url = https://github.com/SajjadMzf/TrajPreprocess.git
+[submodule "TrajPred"]
+	path = TrajPred
+	url = https://github.com/SajjadMzf/TrajPred.git
+[submodule "TrajVis"]
+	path = TrajVis
+	url = https://github.com/SajjadMzf/TrajVis.git
+[submodule "TrajFeatures"]
+	path = TrajFeatures
+	url = https://github.com/SajjadMzf/TrajFeatures.git
