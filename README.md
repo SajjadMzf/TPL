@@ -38,7 +38,7 @@ conda env create -f environment.yml
 ## :wave: Intro
 This repository contains all submodules of vehicle trajectory prediction library (TPL). You may downlod the latest version of each specific submodules using following link:
 
-- (Trajectory Dataset Preprocessing)[https://github.com/SajjadMzf/TrajPreprocess]
-- (Trajectory Scenario/Feature Extraction)[https://github.com/SajjadMzf/TrajFeatures]
-- (Trajectory Prediction Models and Train/Test Functions)[https://github.com/SajjadMzf/TrajPred]
-- (Trajectory Prediction Visualisation)[https://github.com/SajjadMzf/TrajVis]
+- [Trajectory Dataset Preprocessing](https://github.com/SajjadMzf/TrajPreprocess)
+- [Trajectory Scenario/Feature Extraction](https://github.com/SajjadMzf/TrajFeatures)
+- [Trajectory Prediction Models and Train/Test Functions](https://github.com/SajjadMzf/TrajPred)
+- [Trajectory Prediction Visualisation](https://github.com/SajjadMzf/TrajVis)
